@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+.cafe {
+    border: 8px dashed darkred;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.cafe img {
+  width: 100%;
+}
+.cafe hr {
+  width:250px;
+}
+.cafe h5, .cafe p {
+  margin-left: 20px;
+    padding:0px;
+    text-align: left;
+}
+
+
